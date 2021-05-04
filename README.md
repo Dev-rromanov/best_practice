@@ -1,4 +1,4 @@
-18.6 Commit best practices
+## 18.6 Commit best practices
 Ideally, each commit should be <em>minimal</em> but <em>complete</em>:
 
 - **Minimal**: A commit should only contain changes related to a single problem. This will make it easier to understand the commit at a glance, and to describe it with a simple message. If you should discover a new problem, you should do a separate commit.
